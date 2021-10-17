@@ -6,7 +6,7 @@ NOTE: This repo will prob only work on unix-based environments.
 
 The NFT Candy Factory project is designed to let users fork, customize, and deploy their own candy machine mint app to a custom domain, ultra fast.
 
-A candy machine is an on-chain Solana program for managing fair mint. Fair mints:
+candy machine is an on-chain Solana program for managing fair mint. Fair mints:
 * Start and finish at the same time for everyone.
 * Won't accept your funds if they're out of NFTs to sell.
 
